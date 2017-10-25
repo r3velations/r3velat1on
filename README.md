@@ -7,4 +7,5 @@ const info = {
   company: " State Farm"
 }
 console.log(info)
+
 \\ console.log will display the object. 
