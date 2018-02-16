@@ -1,4 +1,4 @@
-# r3velat1ion JS
+# r3velat1on JS
 JavaScript Hacks
 
 #### Purpose
