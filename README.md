@@ -14,4 +14,3 @@ JavaScript Hacks
 - I have had some great help from developers at work, and also taken some online classes from Udacity and StackSkills.
 - I would ultimately enjoy being a developer, so I should really do what I can to hone my skills.
 - I would also like to get to know Git better and how to use it to cut branches and push to master from there.
-- Though at the moment I am having trouble getting my git set up to work with GitHub and I am getting frustrated!!!!
