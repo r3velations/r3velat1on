@@ -12,4 +12,5 @@ const nameFirst = "Tom"
 const name Last = "Lendy"
 // const is used to set a variable. in this case variable is called nameFirst
 // and I assigned the value of "Tom" to this variable. Global variables
-console.log(nameFirst + nameLast)
+console.log(nameFirst)
+//prints "Tom"
