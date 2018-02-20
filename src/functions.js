@@ -1,9 +1,9 @@
 // creating a simple function. ES6 Arrow function.
 const double = number => number*2
 console.log(double(2)) // prints 4
-// Note: ES6 allows no parenthethes when only a single paramter. *needs parenthethes.
+// Note: ES6 allows no parenthethes when only a single paramter.
 
-//lets add a 2nd paramater to the above function.
+//lets add a 2nd paramater to the above function. *requires parenthethes
 const double2 = (number1, number2) => number1*2 + number2*2
 console.log(double2(26, 15)) // prints 82
 
