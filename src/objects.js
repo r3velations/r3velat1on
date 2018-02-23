@@ -5,6 +5,7 @@ about the guns in the object I created a simple else if statement to help me
 determine which gun is best suited to the distance I will be shooting
 */
 
+// An object uses a named index.
 const longRange = {
   make: "Savage",
   model: "Model 11",
@@ -13,7 +14,7 @@ const longRange = {
   opticsInfo: "Nightforce 3x9",
   maxEffDistance: 1000
 }
-// this is an object. place a comma after each paramater except the last
+// this is an object. place a comma after each attribute except the last
 
 const midRange = {
   make: "Colt",
@@ -40,7 +41,13 @@ const distance = 1000
 if (distance > 500) {
   console.log(`At this distance you should use the ${longRange.make} ${longRange.model}.`)
   } else if (distance > 100) {
-  console.log(`At this distance you should use the ${midRange.make} ${midRange.model}`.)
+  console.log(`At this distance you should use the ${midRange.make} ${midRange.model}.`)
   }  else {
     console.log(`At this distance you should probably use the ${shortRange.make} ${shortRange.model}.`)
 }
+
+// Arrays - an array is a special object. It uses a numberd Index
+const newArray = ["Tom", "Andrew", "Stephanie", "Heather", "Katrina", "Robert"]
+console.log(typeof newArray) // prints objects. An array is a typeof Object.
+console.log(newArray[1]) // print Andrew. Indexes on Arrays begin at 0. So, 1 is Andrew.
+console.log(newArray[1][4]) // prints Andrew w/ an e on the following line. Andrew is 1st index. E is 4th index of the name Andrew.
