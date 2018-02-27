@@ -1,0 +1,23 @@
+{
+  "name": "r3velat1on",
+  "version": "1.0.0",
+  "description": "basic JS hacks and learning JS more thoroughly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomLendy/r3velat1ion.git"
+  },
+  "keywords": [
+    "JS",
+    "node.js"
+  ],
+  "author": "Tom Lendy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tomLendy/r3velat1ion/issues"
+  },
+  "homepage": "https://github.com/tomLendy/r3velat1ion#readme"
+}
