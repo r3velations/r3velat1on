@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/tomLendy/r3velat1on/issues"
   },
-  "homepage": "https://github.com/tomLendy/r3velat1on#readme"
+  "homepage": "https://github.com/tomLendy/r3velat1on#readme",
+  "dependencies": {
+    "eslint": "^4.18.1"
+  }
 }
