@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/tomLendy/r3velat1on#readme",
   "devDependencies": {
-    "eslint": "^4.18.1"
+    "eslint": "^4.18.1",
+    "eslint-plugin-react": "^7.7.0"
   }
 }
