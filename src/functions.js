@@ -9,9 +9,9 @@ console.log(double2(26, 15)) // prints 82
 
 const rangeDay = (distanceMeters) => {
   if (distanceMeters > 300) {
-    console.log(`Looks like you will be doing some long range work, remember the spotting scope.`)
+    console.log("Looks like you will be doing some long range work, remember the spotting scope.")
   } else {
-    console.log(`Go ahead and leave the spotting scope at home today.`)
+    console.log("Go ahead and leave the spotting scope at home today.")
   }
 }
 rangeDay(250) // prints Go ahead and leave the spotting scope at home today.

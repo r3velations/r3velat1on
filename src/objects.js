@@ -40,10 +40,10 @@ console.log(midRange.make) // prints "Colt"
 const distance = 1000
 if (distance > 500) {
   console.log(`At this distance you should use the ${longRange.make} ${longRange.model}.`)
-  } else if (distance > 100) {
+} else if (distance > 100) {
   console.log(`At this distance you should use the ${midRange.make} ${midRange.model}.`)
-  }  else {
-    console.log(`At this distance you should probably use the ${shortRange.make} ${shortRange.model}.`)
+}  else {
+  console.log(`At this distance you should probably use the ${shortRange.make} ${shortRange.model}.`)
 }
 
 // Arrays - an array is a special object. It uses a numberd Index
