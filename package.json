@@ -1,12 +1,10 @@
 {
   "name": "r3velat1on",
   "version": "1.0.0",
-  "description": "Learning JS more thoroughly",
+  "description": "JS hacks using node.js and learning JS more thoroughly. ",
   "main": "index.js",
   "scripts": {
-    "lint": "eslint .",
-    "lint and fix": "eslint . --fix",
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "run-test"
   },
   "repository": {
     "type": "git",
@@ -22,9 +20,7 @@
     "url": "https://github.com/tomLendy/r3velat1on/issues"
   },
   "homepage": "https://github.com/tomLendy/r3velat1on#readme",
-  "dependencies": {},
   "devDependencies": {
-    "eslint": "^4.18.1",
-    "eslint-plugin-react": "^7.7.0"
+    "eslint": "^4.18.1"
   }
 }
