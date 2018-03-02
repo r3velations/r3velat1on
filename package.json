@@ -4,7 +4,10 @@
   "description": "JS hacks using node.js and learning JS more thoroughly. ",
   "main": "index.js",
   "scripts": {
-    "test": "run-test"
+    "lint": "eslint .",
+    "lint-and-fix": "eslint . --fix",
+    "test": "",
+    "ci": "npm run lint && npm run lint-and-fix"
   },
   "repository": {
     "type": "git",
