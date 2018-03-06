@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/tomLendy/r3velat1on.svg?branch=master)](https://travis-ci.org/tomLendy/r3velat1on)
+
 # r3velat1on JS
 JavaScript Hacks
 
