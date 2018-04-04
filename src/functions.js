@@ -18,3 +18,12 @@ rangeDay(250) // prints Go ahead and leave the spotting scope at home today.
 
 const hogHunt = (totalWeight, numberOfHogs) => numberOfHogs / totalWeight
 console.log(hogHunt(5,1098)) //prints 219.6
+// these are all function expressions. That is, they are functions inside of an expression
+
+// a function can also be a declaration, which is essentially a within certain paramaters
+// these are essentially functions without a var/const/let example:
+
+function multiplication (number1, number2) {
+  return number1 * number2
+}
+console.log(multiplication(10, 2)) // returns 20
